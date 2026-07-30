@@ -16,7 +16,7 @@ Sentiment classification into Positive, Neutral, and Negative using Python.
 Interactive filters by Brand and Product Name.
 KPIs displaying positive and negative sentiment percentages.
 Visual comparison of sentiment across different Amazon products.
-Insights
+Insights https://github.com/tasneem-78/Amazon-Products-Sentiment-Dashboard/blob/main/dashboard.jpg
 88.62% of customer reviews are positive.
 Only 4.24% of reviews are negative.
 Most Amazon products receive highly positive customer feedback, with only a few products showing relatively higher negative sentiment.
